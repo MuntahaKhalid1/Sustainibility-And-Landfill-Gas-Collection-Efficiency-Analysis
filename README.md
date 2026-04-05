@@ -24,6 +24,10 @@
 
 🔹 Dashboard development in Tableau Public with 3 connected views
 
+# 🔵 Dashboard
+
+View the interactive Tableau dashboard here:
+[LFG Energy Performance Dashboard](https://public.tableau.com/app/profile/muntaha.khalid/viz/SustainibilityandLFGEfficiencyAnalysis/Dashboard1?publish=yes)
 
 # 🔵 Project Overview
 
